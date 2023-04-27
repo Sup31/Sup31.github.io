@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTECH Computer Engineering, NMIMS University, 2019
+* M.S. in Computer Science and Engineering, UCSC, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018, Summer 2019: Research Assistant
+  * IIT Guwahati
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor S. Samudravijaya
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2019- October 2020
+  * TSS Consultancy
+  * Duties included: Full Stack Engineer
+  * Supervisor: Sagar Savaliya
 
 Publications
 ======
@@ -54,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
