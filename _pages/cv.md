@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2018, Summer 2019: Research Assistant
   * IIT Guwahati
-  * Duties included: Tagging issues
+  * Duties included: Built automatic speech recognition models using the Kaldi toolkit for a Marathi language database
   * Supervisor: Professor S. Samudravijaya
 
 * August 2019- October 2020
