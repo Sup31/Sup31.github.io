@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm 2nd year Computer Science Masters student at Baskin Engineering, UCSC. I am currently working with Prof. Leilani Gilpin with her Explainable AI (XAI) team. I've worked as a software engineer for 1.5 years in India on the .NET Framework. I worked on the fast-paced CKYC (Central Know Your Customer) product team for a FinTech startup. As an undergraduate student, I did research under Prof. S. Samudravijaya at his lab in IIT Guwahati. My research interests are in the fields of speech recognition, natural language processing, and computer vision.  
+Hi! I'm 2nd year Computer Science Masters student at Baskin Engineering, UCSC. I am currently working with Prof. Leilani Gilpin with her Explainable AI (XAI) team. I've worked as a software engineer for 1.5 years in India on the .NET Framework. I worked on the fast-paced CKYC (Central Know Your Customer) product team for a FinTech startup. My research interests are in the fields of speech recognition, natural language processing, and computer vision.  
 
