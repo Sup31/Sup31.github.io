@@ -11,9 +11,9 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Supriya"
 description              : &description "personal description"
-url                      : https://supriyapaulose.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sup31.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "supriyapaulose.github.io"
+repository               : "Sup31.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  + name           : "Supriya"
+  name             : "Supriya"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Santa Cruz, California"
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : [metadata]
   google_plus      :
   keybase          :
   instagram        :
