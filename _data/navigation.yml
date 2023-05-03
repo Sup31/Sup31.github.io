@@ -4,13 +4,9 @@ main:
     url: /cv/
   - title: "Projects"
     url: /posts/
-  - title: "Publication"
+  - title: "Research"
     url: /publications/
-  - title: "Talk"
-    url: /talks/    
-  - title: "Teaching"
-    url: /teaching/    
-    
+
 
     
 
