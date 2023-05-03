@@ -1,7 +1,7 @@
 
 ---
-Title: "Bias in Personality Prediction"
-collection: publications
+Title: 'Bias in Personality Prediction'
+collection: 'publications'
 permalink: ''
 excerpt: 'Pandora dataset'
 venue: ''
