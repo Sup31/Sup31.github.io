@@ -1,7 +1,9 @@
 
 ---
-Project: "Bias in Personality Prediction"
+Title: "Bias in Personality Prediction"
 collection: publications
-urllink: 'https://github.com/Sup31/PandorasBooks'
+permalink: ''
 excerpt: 'Pandora dataset'
+venue: ''
+paperurl: 'https://github.com/Sup31/PandorasBooks'
 ---
