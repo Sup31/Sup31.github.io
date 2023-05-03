@@ -1,4 +1,4 @@
----
+
 Academic Projects
 ====
 
@@ -11,7 +11,7 @@ Academic Projects
  * Collected a database for Indian Sign Language and experimented with various architectures of CNNs using Tensorflow and Keras.
 
 
-
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
