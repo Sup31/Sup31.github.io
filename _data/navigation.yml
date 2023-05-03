@@ -2,8 +2,6 @@
 main:
   - title: "Work Experience"
     url: /cv/
-  - title: "Projects"
-    url: /posts/
   - title: "Research"
     url: /publications/
 
