@@ -1,11 +1,11 @@
 ---
-title: ''
+title: 'Bias in Personality Prediction'
 collection: publications
-permalink: ''
+permalink: /publication/BiasInPersonalityPrediction.pdf
 excerpt: 'Pandora dataset'
 date: 
 venue: <i> <i>
-paperurl: 'https://github.com/Sup31/PandorasBooks'
+paperurl: 'http://sup31.github.io/files/BiasInPersonalityPrediction.pdf'
 authors: 'Supriya Paulose'
 Title Number:'2'
 ---
