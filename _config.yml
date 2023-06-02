@@ -84,37 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Baskin Engineering, UCSC"
   location         : "Santa Cruz, California"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "supriyapaulose@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : [metadata]
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  github           : "Sup31"
+  medium           : "https://danglinghuman.medium.com/"
   linkedin         : "/supriya-paulose-2862017b"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
